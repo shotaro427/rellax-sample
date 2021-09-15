@@ -11,10 +11,12 @@
   "dependencies": {
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "rellax": "^1.12.1"
   },
   "devDependencies": {
     "@types/react": "17.0.21",
+    "@types/rellax": "^1.7.4",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "typescript": "4.4.3"
